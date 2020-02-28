@@ -2,13 +2,19 @@
   <section class="section">
     <section class="hero">
       <div class="hero-body">
-        <div class="container">
-          <h1 class="title is-1">
-            Open Archipelago
-          </h1>
-          <h2 class="subtitle">
-            A way to keep up with many of the popular open-source frameworks
-          </h2>
+        <div class="container columns">
+          <div>
+            <img src="~/assets/logo2.png" style="max-height: 150px;" />
+          </div>
+          <div class="column">
+            <br />
+            <h1 class="title is-1">
+              Open Archipelago
+            </h1>
+            <h2 class="subtitle">
+              A way to keep up with many of the popular open-source frameworks
+            </h2>
+          </div>
         </div>
       </div>
     </section>

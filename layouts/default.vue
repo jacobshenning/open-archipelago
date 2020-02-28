@@ -1,9 +1,14 @@
 <template>
   <div>
-    <b-navbar wrapper-class="container" type="is-dark">
+    <b-navbar
+      wrapper-class="container"
+      class="box is-paddingless is-marginless"
+    >
       <template slot="brand">
         <b-navbar-item tag="router-link" :to="{ path: '/' }">
-          <h3 class="title is-6 has-text-white">Open Source Archipelago</h3>
+          <b-button type="is-primary" class="title is-6">
+            Open Archipelago
+          </b-button>
         </b-navbar-item>
       </template>
 
