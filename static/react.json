@@ -1,0 +1,13 @@
+{
+	"name": "React",
+	"description": "React is a frontend framework",
+	"color": "#282c34",
+	"contrastColor": "#61dafb",
+	"repo_owner": "https://api.github.com/repos/facebook",
+  "repository": "https://api.github.com/repos/facebook/react",
+	"repository_html": "https://github.com/facebook/react",
+  "releases": "https://api.github.com/repos/facebook/react/releases",
+  "twitter": "https://twitter.com/reactjs?ref_src=twsrc%5Etfw",
+  "rss": "https://medium.com/feed/the-vue-point",
+	"test": "medium.com/feed"
+}

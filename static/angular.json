@@ -1,0 +1,13 @@
+{
+	"name": "Angular",
+	"description": "Angular is a frontend framework",
+	"color": "#dd0031",
+	"contrastColor": "#fff",
+	"repo_owner": "https://api.github.com/repos/angular",
+  "repository": "https://api.github.com/repos/angular/angular",
+	"repository_html": "https://github.com/angular/angular",
+  "releases": "https://api.github.com/repos/angular/angular/releases",
+  "twitter": "https://twitter.com/angular?ref_src=twsrc%5Etfw",
+  "rss": "https://medium.com/feed/the-vue-point",
+	"test": "medium.com/feed"
+}

@@ -20,6 +20,12 @@
           <b-navbar-item tag="router-link" to="/vue">
             Vue
           </b-navbar-item>
+          <b-navbar-item tag="router-link" to="/react">
+            React
+          </b-navbar-item>
+          <b-navbar-item tag="router-link" to="/angular">
+            Angular
+          </b-navbar-item>
         </b-navbar-dropdown>
       </template>
     </b-navbar>

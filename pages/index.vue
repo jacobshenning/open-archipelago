@@ -22,21 +22,29 @@
     <br />
     <div class="tile is-ancestor">
       <nuxt-link class="tile is-parent" to="/laravel">
-        <article
-          class="tile is-child notification is-primary"
-          style="backgroundColor: #ff2d20"
-        >
+        <article class="tile is-child notification is-primary box">
           <p class="title">Laravel</p>
           <p class="subtitle">Laravel is a framework for web artisans</p>
         </article>
       </nuxt-link>
       <nuxt-link class="tile is-parent" to="/vue">
-        <article
-          class="tile is-child notification is-info"
-          style="backgroundColor: #42b983"
-        >
+        <article class="tile is-child notification is-info box">
           <p class="title">Vue</p>
           <p class="subtitle">Vue is a frontend framework</p>
+        </article>
+      </nuxt-link>
+    </div>
+    <div class="tile is-ancestor">
+      <nuxt-link class="tile is-parent" to="/react">
+        <article class="tile is-child notification is-success box">
+          <p class="title">React</p>
+          <p class="subtitle">React is a frontend framework</p>
+        </article>
+      </nuxt-link>
+      <nuxt-link class="tile is-parent" to="/angular">
+        <article class="tile is-child notification is-warning box">
+          <p class="title">Angular</p>
+          <p class="subtitle">Angular is a frontend framework</p>
         </article>
       </nuxt-link>
     </div>
