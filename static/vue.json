@@ -1,0 +1,13 @@
+{
+	"name": "Vue",
+	"description": "Vue is a frontend framework",
+	"color": "#42b983",
+	"contrastColor": "#fff",
+	"repo_owner": "https://api.github.com/repos/vuejs",
+  "repository": "https://api.github.com/repos/vuejs/vue",
+	"repository_html": "https://github.com/vuejs/vue",
+  "releases": "https://api.github.com/repos/vuejs/vue/releases",
+  "twitter": "https://twitter.com/vuejs?ref_src=twsrc%5Etfw",
+  "rss": "https://medium.com/feed/the-vue-point",
+	"test": "medium.com/feed"
+}

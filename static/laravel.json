@@ -1,0 +1,13 @@
+{
+	"name": "Laravel",
+	"description": "Laravel is a framework for web artisans",
+  "color": "#ff2d20",
+  "contrastColor": "#fff",
+	"repo_owner": "https://api.github.com/repos/laravel",
+  "repository": "https://api.github.com/repos/laravel/laravel",
+	"repository_html": "https://github.com/laravel/laravel",
+  "releases": "https://api.github.com/repos/laravel/laravel/releases",
+  "twitter": "https://twitter.com/taylorotwell?ref_src=twsrc%5Etfw",
+  "rss": "https://blog.laravel.com/feed",
+  "test": "blog.laravel.com"
+}
