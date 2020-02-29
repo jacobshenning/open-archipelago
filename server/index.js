@@ -1,4 +1,5 @@
 const express = require('express')
+const secure = require('express-force-https');
 const consola = require('consola')
 const { Nuxt, Builder } = require('nuxt')
 const app = express()
@@ -22,6 +23,7 @@ async function start() {
 
   // Give nuxt middleware to express
   app.use(nuxt.render)
+  app.use(secure)
 
   // Listen the server
   app.listen(port, host)
